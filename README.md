@@ -1,5 +1,6 @@
 # php_date_diff
 
+PHP 날짜비교함수
 
 ```
 function timestampdiff($qw,$saw)
